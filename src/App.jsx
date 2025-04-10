@@ -1,6 +1,6 @@
 import "./App.css";
+import Accordion, { AccordionItem } from "./components/Accordion";
 import Tabs, { Tab } from "./components/Tabs";
-import Accordion, { AccordionItem } from "./Accordion";
 
 // const handleClick = (e) => {
 //   console.log(e.target.href);
